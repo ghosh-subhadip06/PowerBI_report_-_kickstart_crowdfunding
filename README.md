@@ -20,6 +20,11 @@ The reports provide insights into around 364K projects created in Kickstater pla
 <img width="1876" height="744" alt="Tableau_Kickstarter_Croudfunding_page2" src="https://github.com/user-attachments/assets/02e4e0a6-3ee1-4ccc-bbf5-e5fe09606920" />
 <img width="1873" height="739" alt="Tableau_Kickstarter_Croudfunding_page3" src="https://github.com/user-attachments/assets/5183a845-fa15-478a-a5b4-3529398c710b" />
 
+# SQL Report:
+
+<img width="585" height="830" alt="SQL quaries and output" src="https://github.com/user-attachments/assets/406331bf-6d78-43d1-b1f4-10966fe87b32" />
+
+
 
 
 
