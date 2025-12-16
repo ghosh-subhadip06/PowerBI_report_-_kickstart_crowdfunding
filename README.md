@@ -5,7 +5,10 @@ Crowdfunding enables projects to be funded by small contributions from many peop
 The reports provide insights into around 364K projects created in Kickstater platform between January 2009 and December 2019 across 22 countries and 169 categories, with successful projects analysed separately.
 
 # Features:
-⚪ Overall 
+⚪ Overall projects by their status.  <br>
+⚪ Number of projects created by date (2009 to 2019), places and categories.  <br>
+⚪ Top N (dynamic) successful projects by number of backers and raised amount.  <br>
+⚪ Success rate of projects in each category and in different time period. 
 
 # Screensorts of Report:
 <img width="1354" height="748" alt="powerBI_Kickstarter_Croudfunding_page1" src="https://github.com/user-attachments/assets/379226e6-4592-4ca6-af64-7295497ed95a" />
