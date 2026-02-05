@@ -12,7 +12,7 @@ The reports provide insights into around 365K projects created between 2009 and 
 ⚪ Top N (dynamic) successful projects by number of backers and raised amount.  <br>
 ⚪ Success rate of projects in each category and in different time period. 
 
-# Screensorts of Excel Report:
+# Screensort of Excel Report:
 <img width="1640" height="910" alt="image" src="https://github.com/user-attachments/assets/8d323471-6722-4fe1-80b2-af3db21021d1" />
 
 
