@@ -1,8 +1,10 @@
 # Introduction: 
-Crowdfunding enables projects to be funded by small contributions from many people online. Kickstarter is a popular platform where creators independently raise funds and offer rewards to backers.
+Crowdfunding is a way of raising money by collecting small amounts from a large number of people (Backers), usually through online platforms such as Kickstarter. It helps individuals, start-ups, or creators to fund their projects.
+
 
 # Purpose: 
-The reports provide insights into around 364K projects created in Kickstater platform between 2009 and 2019 across 22 countries and 169 categories, with successful projects analysed separately.
+In this project, I analyze and summarize the performance of projects conducted on the Kickstarter platform. The analysis is based on time, category, location, number of backers, and the total amount raised.
+The reports provide insights into around 365K projects created between 2009 and 2019 across 22 countries and 169 categories.
 
 # Features:
 ⚪ Overall projects by their status.  <br>
@@ -10,10 +12,15 @@ The reports provide insights into around 364K projects created in Kickstater pla
 ⚪ Top N (dynamic) successful projects by number of backers and raised amount.  <br>
 ⚪ Success rate of projects in each category and in different time period. 
 
-# Screensorts of Power BI Report:
-<img width="1352" height="752" alt="powerBI_Kickstarter_Croudfunding_page1" src="https://github.com/user-attachments/assets/90144440-288d-4ec8-b299-fc707d979c4b" />
+# Screensorts of Excel Report:
+<img width="1640" height="910" alt="image" src="https://github.com/user-attachments/assets/8d323471-6722-4fe1-80b2-af3db21021d1" />
 
-<img width="1349" height="753" alt="powerBI_Kickstarter_Croudfunding_page2" src="https://github.com/user-attachments/assets/426d8d27-aa9d-49f9-ab85-52edb8c978eb" />
+
+# Screensorts of Power BI Report:
+<img width="1715" height="953" alt="image" src="https://github.com/user-attachments/assets/c3c631b7-ea4d-4bfd-a22d-22751ca47883" />
+
+<img width="1693" height="953" alt="image" src="https://github.com/user-attachments/assets/6350dd9a-90cc-4cce-a0ad-650d97cecb8c" />
+
 
 # Screensorts of Tableau Report:
 <img width="1878" height="737" alt="Tableau_Kickstarter_Croudfunding_page1" src="https://github.com/user-attachments/assets/d9f9c6fd-ebf2-4e23-8d73-0d3dcad48cd5" />
