@@ -29,8 +29,26 @@ The reports provide insights into around 365K projects created between 2009 and 
 
 
 # SQL Report:
+Query 1:<br>
+<img width="1199" height="278" alt="image" src="https://github.com/user-attachments/assets/360a3ec6-a200-441b-88d3-df3274aba5ce" /><br>
+Ourput 1:<br>
+<img width="407" height="294" alt="image" src="https://github.com/user-attachments/assets/f6cf0e48-ea07-4615-b8fa-dd867e0e1fc8" /><br>
+Query 2:<br>
+<img width="1226" height="283" alt="image" src="https://github.com/user-attachments/assets/d24955cb-8c5b-45cf-b33a-aefa501b9b6d" />
+Ourput 2:<br>
+<img width="357" height="425" alt="image" src="https://github.com/user-attachments/assets/b8b1508f-e6b3-4060-9a50-7fa40d2ced73" />
+Query 3:<br>
+<img width="1186" height="270" alt="image" src="https://github.com/user-attachments/assets/bb8e1cd9-2ab1-4f51-9a92-b5e1ca70e8ba" />
+Ourput 3:<br>
+<img width="447" height="425" alt="image" src="https://github.com/user-attachments/assets/31b6892e-10d0-40d5-a9e8-84a41ac8b8ef" />
+Query 4:<br>
+<img width="1166" height="236" alt="image" src="https://github.com/user-attachments/assets/3c10c2cf-9717-408e-9918-c1add880a469" />
+Output 4:<br>
+<img width="330" height="422" alt="image" src="https://github.com/user-attachments/assets/335580ee-88a1-441e-a799-e14e335a1abb" /><br>
 
-<img width="585" height="830" alt="SQL quaries and output" src="https://github.com/user-attachments/assets/406331bf-6d78-43d1-b1f4-10966fe87b32" />
+
+
+
 
 
 
